@@ -1,0 +1,23 @@
+<resources>
+    <string name="app_name">Problemstatement12</string>
+    <string name="category">Category</string>
+    <string name="subcategory">Sub-Category</string>
+
+    <string-array name="Category">
+        <item>RP</item>
+        <item>SOI</item>
+    </string-array>
+
+
+    <string-array name="republic">
+        <item>HomePage</item>
+        <item>Student Life</item>
+    </string-array>
+
+    <string-array name="soi">
+        <item>DMSD</item>
+        <item>DIT</item>
+
+    </string-array>
+
+</resources>
